@@ -1,4 +1,4 @@
-package com.walf.test.com.walf.test.multithread.Immutable;
+package com.walf.test.multithread.Immutable;
 
 /*
 * 由于Persion类声明为final类型，不能被子类继承。

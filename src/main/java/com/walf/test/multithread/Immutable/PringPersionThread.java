@@ -1,4 +1,4 @@
-package com.walf.test.com.walf.test.multithread.Immutable;
+package com.walf.test.multithread.Immutable;
 
 public class PringPersionThread extends Thread {
     private Persion persion;
